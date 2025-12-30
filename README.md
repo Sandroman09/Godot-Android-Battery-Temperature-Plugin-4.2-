@@ -23,3 +23,4 @@ Android plugin for Godot used to access the battery temperature of android devic
 
 
 There is also a demo project avaiable if you want to test the plugin, you can find it in the "Godot Android battery temperature plugin demo project" folder.
+Feel free to open an issue if there is something wrong or if the plugin doesn't work on a specific godot version.
