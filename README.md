@@ -6,4 +6,4 @@ Android plugin for Godot used to access the battery temperature of android devic
 2) Activate the plugin in the project settings.
 3) Add a new node and select GodotAndroidBatteryTemperature.
 4) On the GodotAndroidBatteryTemperature node you will be able to call the get_battery_temperature() method, it will return the battery temperature
-5) If you are exporting the project to android remember to enable gradle build and to enable "Battery stats" in the permissions section.
+5) If you are exporting the project to android remember to enable gradle build otherwise the plugin won't work.
